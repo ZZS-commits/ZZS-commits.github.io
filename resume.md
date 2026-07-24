@@ -16,10 +16,10 @@ ZZS-commits.github.io
 │        └── profile.jpg
 │
 └── CV.pdf   （以后上传）
-title: "ZZS"
-description: "Ph.D. Candidate in Organic Chemistry"
+title: "Aurélie Sun"
+description: "Ph.D. in Organic Chemistry"
 author:
-  name: "ZZS"
+  name: "Aurélie Sun"
 
 theme: minima
 
@@ -35,19 +35,19 @@ header_pages:
 layout: home
 ---
 
-# ZZS
+# Aurélie Sun
 
-## Ph.D. Candidate in Organic Chemistry
+## Ph.D. in Organic Chemistry
 
 My research focuses on:
 
-**Asymmetric oxidative phenol dearomatization,
-high-valent iodine chemistry, and natural product synthesis.**
+**Green organic synthesis methods, photochemistry，Asymmetric oxidative phenol dearomatization, high-valent iodine chemistry, and natural product synthesis.**
 
 ---
 
 ## Research Interests
-
+- Green organic synthesis methods
+- photochemistry
 - Chiral λ⁵-Iodane Chemistry
 - Oxidative Dearomatization
 - Ortho-Quinol Chemistry
@@ -65,7 +65,7 @@ title: About
 
 # About Me
 
-I am a Ph.D. candidate in Organic Chemistry.
+I am a Ph.D. in Organic Chemistry.
 
 My research interests include asymmetric oxidation,
 phenol dearomatization, and the development of
@@ -79,18 +79,20 @@ new synthetic methodologies.
 
 University / Institute
 
-2023–2026
+2023。03–2026.12
 
 
 ---
 
 ## Technical Skills
 
-- Organic synthesis
-- Reaction optimization
-- Column chromatography
-- NMR spectroscopy
-- HPLC analysis
+-Multi-step organic synthesis
+-handling without water or oxygen
+-independent design and preparation of chiral reagents
+-asymmetric catalysis and construction of photo-redox systems
+-total synthesis of natural products
+-high-valent iodine chemistry
+-reaction development and optimization
 - Chiral chromatography
 - ---
 layout: page
@@ -101,30 +103,29 @@ title: Research
 
 ## Project 01
 
-### Asymmetric Phenol Dearomatization Mediated by Chiral λ⁵-Iodanes
+### Asymmetric dearomatization of natural product Grandifloracin mediated by novel chiral λ5-iodanes
 
-Development of chiral high-valent iodine reagents
-for asymmetric oxidative transformation of phenolic substrates.
+(+)-Grandifloracin, a biologically active natural product reported to induce autophagic cell death in nutrient-deprived PANC-1 pancreatic cancer cells and to target tumor survival mechanisms under hypovascular tumor microenvironment conditions, was selected as a synthetic target. We investigated the catalytic performance of a series of newly synthesized chiral λ⁵-iodanes, including bis(ester)-, bis(amido)-, and piperazinyl-type derivatives, in the asymmetric hydroxylative phenol dearomatization reaction. Through the optimization of the chiral iodine(V)-mediated oxidation conditions, (+)-Grandifloracin was successfully synthesized with an enantiomeric excess of approximately 70%.
 
 
 ---
 
 ## Project 02
 
-### Ortho-Quinol Chemistry and Natural Product Synthesis
+### Asymmetric Dearomatization Enabled by Novel Chiral Hypervalent Iodine Reagents for the Synthesis of Bioactive Molecules: (+)-Streptochlorin A
 
-Synthetic approaches toward complex natural product frameworks
-using dearomative transformations.
-
+This project focused on the development of chiral hypervalent iodine-mediated asymmetric oxidative dearomatization strategies for the efficient synthesis of biologically active molecules. (+)-Streptochlorin A was selected as a target molecule due to its potential anticancer activity as a hexokinase II (HK2) inhibitor. HK2 is weakly expressed in normal tissues but highly upregulated in cancer cells, making it an important target involved in tumor metabolic reprogramming and cancer progression.we were responsible for the design, synthesis, and structural characterization of novel chiral hypervalent iodine reagents, and investigated their applications in asymmetric dearomatization reactions. An efficient synthetic route with excellent stereocontrol was established, enabling the synthesis of the target molecule with outstanding enantioselectivity (>99% ee).
 
 ---
 
 ## Project 03
 
-### Synthetic Methodology Development
+### Green Synthetic Methodology: Photocatalytic Decarbonylation of Aldehydes for C(sp³)–C(sp³) Bond Formation and Heterocycle Library Construction
 
-Exploration of new oxidative transformations
-and their applications in organic synthesis.
+Research focus: Development of sustainable synthetic methodologies for efficient C(sp³)–C(sp³) bond construction and the generation of structurally diverse functionalized heterocycle libraries.
+Photoredox catalytic decarbonylation: Developed a radical-mediated decarbonylative alkylation strategy using readily available aldehydes as alkyl radical precursors and the organic donor–acceptor fluorophore 4CzIPN as a photocatalyst. This method enabled efficient construction of C(sp³)–C(sp³) bonds under mild photoredox conditions, increasing molecular three-dimensionality and avoiding excessive molecular flattening. The transformation demonstrated broad substrate scope with over 40 examples and delivered products in yields of up to 90%.
+
+Synthesis of functionalized oxindoles: Developed a room-temperature synthetic approach toward functionalized oxindoles via radical addition/Michael acceptor activation, employing aldehydes as alkyl/acyl sources and acrylamides as coupling partners. More than 50 derivatives were successfully synthesized with yields up to 74%, providing a valuable compound library for potential drug discovery and lead optimization.
 ---
 layout: page
 title: CV
@@ -147,19 +148,29 @@ title: Contact
 
 Email:
 
-your.email@example.com
+zhaozhaosun2@gmail.com
 
+body {
+    font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
 
-ORCID:
+h1 {
+    font-weight:700;
+}
 
-XXXXXXXX
+a {
+    text-decoration:none;
+}
 
-
-Google Scholar:
-
-XXXXXXXX
-
-
-LinkedIn:
-
-XXXXXXXX
+.profile {
+    border-radius:50%;
+    width:180px;
+}
+.profile {
+    border-radius:50%;
+    width:180px;
+}
