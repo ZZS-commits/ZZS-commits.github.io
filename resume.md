@@ -126,6 +126,8 @@ Research focus: Development of sustainable synthetic methodologies for efficient
 Photoredox catalytic decarbonylation: Developed a radical-mediated decarbonylative alkylation strategy using readily available aldehydes as alkyl radical precursors and the organic donor–acceptor fluorophore 4CzIPN as a photocatalyst. This method enabled efficient construction of C(sp³)–C(sp³) bonds under mild photoredox conditions, increasing molecular three-dimensionality and avoiding excessive molecular flattening. The transformation demonstrated broad substrate scope with over 40 examples and delivered products in yields of up to 90%.
 
 Synthesis of functionalized oxindoles: Developed a room-temperature synthetic approach toward functionalized oxindoles via radical addition/Michael acceptor activation, employing aldehydes as alkyl/acyl sources and acrylamides as coupling partners. More than 50 derivatives were successfully synthesized with yields up to 74%, providing a valuable compound library for potential drug discovery and lead optimization.
+
+
 ---
 layout: page
 title: CV
@@ -149,28 +151,3 @@ title: Contact
 Email:
 
 zhaozhaosun2@gmail.com
-
-body {
-    font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    sans-serif;
-}
-
-h1 {
-    font-weight:700;
-}
-
-a {
-    text-decoration:none;
-}
-
-.profile {
-    border-radius:50%;
-    width:180px;
-}
-.profile {
-    border-radius:50%;
-    width:180px;
-}
