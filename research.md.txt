@@ -1,0 +1,33 @@
+---
+layout: page
+title: Research
+---
+
+# Research
+
+## Project 01
+
+### Asymmetric dearomatization of natural product Grandifloracin mediated by novel chiral λ5-iodanes
+
+(+)-Grandifloracin, a biologically active natural product reported to induce autophagic cell death in nutrient-deprived PANC-1 pancreatic cancer cells and to target tumor survival mechanisms under hypovascular tumor microenvironment conditions, was selected as a synthetic target. We investigated the catalytic performance of a series of newly synthesized chiral λ⁵-iodanes, including bis(ester)-, bis(amido)-, and piperazinyl-type derivatives, in the asymmetric hydroxylative phenol dearomatization reaction. Through the optimization of the chiral iodine(V)-mediated oxidation conditions, (+)-Grandifloracin was successfully synthesized with an enantiomeric excess of approximately 70%.
+
+
+---
+
+## Project 02
+
+###  Asymmetric Dearomatization Enabled by Novel Chiral Hypervalent Iodine Reagents for the Synthesis of Bioactive Molecules: (+)-Streptochlorin A
+
+This project focused on the development of chiral hypervalent iodine-mediated asymmetric oxidative dearomatization strategies for the efficient synthesis of biologically active molecules. (+)-Streptochlorin A was selected as a target molecule due to its potential anticancer activity as a hexokinase II (HK2) inhibitor. HK2 is weakly expressed in normal tissues but highly upregulated in cancer cells, making it an important target involved in tumor metabolic reprogramming and cancer progression.we were responsible for the design, synthesis, and structural characterization of novel chiral hypervalent iodine reagents, and investigated their applications in asymmetric dearomatization reactions. An efficient synthetic route with excellent stereocontrol was established, enabling the synthesis of the target molecule with outstanding enantioselectivity (>99% ee).
+
+
+---
+
+## Project 03
+
+### Green Synthetic Methodology: Photocatalytic Decarbonylation of Aldehydes for C(sp³)–C(sp³) Bond Formation and Heterocycle Library Construction
+
+Research focus: Development of sustainable synthetic methodologies for efficient C(sp³)–C(sp³) bond construction and the generation of structurally diverse functionalized heterocycle libraries.
+Photoredox catalytic decarbonylation: Developed a radical-mediated decarbonylative alkylation strategy using readily available aldehydes as alkyl radical precursors and the organic donor–acceptor fluorophore 4CzIPN as a photocatalyst. This method enabled efficient construction of C(sp³)–C(sp³) bonds under mild photoredox conditions, increasing molecular three-dimensionality and avoiding excessive molecular flattening. The transformation demonstrated broad substrate scope with over 40 examples and delivered products in yields of up to 90%.
+
+Synthesis of functionalized oxindoles: Developed a room-temperature synthetic approach toward functionalized oxindoles via radical addition/Michael acceptor activation, employing aldehydes as alkyl/acyl sources and acrylamides as coupling partners. More than 50 derivatives were successfully synthesized with yields up to 74%, providing a valuable compound library for potential drug discovery and lead optimization.

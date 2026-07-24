@@ -1,0 +1,15 @@
+title: "Aurélie Sun"
+description: "Ph.D. in Organic Chemistry"
+author:
+  name: "Aurélie Sun"
+
+theme: minima
+
+markdown: kramdown
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - cv.md
+  - contact.md

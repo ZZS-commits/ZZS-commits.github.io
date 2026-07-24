@@ -1,0 +1,27 @@
+---
+layout: home
+---
+
+# Aurélie Sun
+
+## Ph.D.  in Organic Chemistry
+
+My research focuses on:
+
+**Green organic synthesis methods, photochemistry，Asymmetric oxidative phenol dearomatization, high-valent iodine chemistry, and natural product synthesis.s.**
+
+---
+
+## Research Interests
+
+- Green organic synthesis methods
+- photochemistry
+- Chiral λ⁵-Iodane Chemistry
+- Oxidative Dearomatization
+- Ortho-Quinol Chemistry
+- Organic Synthesis
+- Natural Product Synthesis
+
+[Download CV](cv.md)
+
+[View Research](research.md)

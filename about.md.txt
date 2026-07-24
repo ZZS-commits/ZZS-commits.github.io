@@ -1,0 +1,36 @@
+---
+layout: page
+title: About
+---
+
+# About Me
+
+I am a Ph.D. in Organic Chemistry.
+
+My research interests include asymmetric oxidation,
+phenol dearomatization, and the development of
+new synthetic methodologies.
+
+---
+
+## Education
+
+**Ph.D. in Organic Chemistry**
+
+University of bordeaux / Institute
+
+2023.03–2026.12
+
+
+---
+
+## Technical Skills
+
+-Multi-step organic synthesis
+-handling without water or oxygen
+-independent design and preparation of chiral reagents
+-asymmetric catalysis and construction of photo-redox systems
+-total synthesis of natural products
+-high-valent iodine chemistry
+-reaction development and optimization
+- Chiral chromatography
