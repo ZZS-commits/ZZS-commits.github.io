@@ -15,7 +15,7 @@ ZZS-commits.github.io
 │   └── images
 │        └── profile.jpg
 │
-└── CV.pdf   （以后上传）
+└── CV.pdf   （upload after）
 title: "Aurélie Sun"
 description: "Ph.D. in Organic Chemistry"
 author:
