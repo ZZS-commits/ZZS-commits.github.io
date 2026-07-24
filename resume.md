@@ -1,98 +1,165 @@
+ZZS-commits.github.io
+│
+├── index.md
+├── about.md
+├── research.md
+├── publications.md
+├── cv.md
+├── contact.md
+│
+├── _config.yml
+│
+├── assets
+│   ├── css
+│   │    └── style.css
+│   └── images
+│        └── profile.jpg
+│
+└── CV.pdf   （以后上传）
+title: "ZZS"
+description: "Ph.D. Candidate in Organic Chemistry"
+author:
+  name: "ZZS"
+
+theme: minima
+
+markdown: kramdown
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - cv.md
+  - contact.md
+  - ---
+layout: home
+---
+
+# ZZS
+
+## Ph.D. Candidate in Organic Chemistry
+
+My research focuses on:
+
+**Asymmetric oxidative phenol dearomatization,
+high-valent iodine chemistry, and natural product synthesis.**
+
+---
+
+## Research Interests
+
+- Chiral λ⁵-Iodane Chemistry
+- Oxidative Dearomatization
+- Ortho-Quinol Chemistry
+- Organic Synthesis
+- Natural Product Synthesis
+
+
+[Download CV](cv.md)
+
+[View Research](research.md)
 ---
 layout: page
-title: 简历
-permalink: /resume/
+title: About
 ---
 
-# 个人简历
+# About Me
 
-## 基本信息
-- **姓名**: [您的名字]
-- **联系方式**: [电子邮件]
-- **电话**: [电话号码]
-- **地址**: [城市/地区]
-- **GitHub**: [GitHub链接]
-- **LinkedIn**: [LinkedIn链接]
+I am a Ph.D. candidate in Organic Chemistry.
+
+My research interests include asymmetric oxidation,
+phenol dearomatization, and the development of
+new synthetic methodologies.
 
 ---
 
-## 专业概述
-[在这里简要介绍您的专业背景、核心技能和职业目标，2-3句话]
+## Education
+
+**Ph.D. in Organic Chemistry**
+
+University / Institute
+
+2023–2026
+
 
 ---
 
-## 工作经历
+## Technical Skills
 
-### 职位名称
-**公司名称** | [开始日期] - [结束日期]
-- [工作职责和成就1]
-- [工作职责和成就2]
-- [工作职责和成就3]
+- Organic synthesis
+- Reaction optimization
+- Column chromatography
+- NMR spectroscopy
+- HPLC analysis
+- Chiral chromatography
+- ---
+layout: page
+title: Research
+---
 
-### 职位名称
-**公司名称** | [开始日期] - [结束日期]
-- [工作职责和成就1]
-- [工作职责和成就2]
-- [工作职责和成就3]
+# Research
+
+## Project 01
+
+### Asymmetric Phenol Dearomatization Mediated by Chiral λ⁵-Iodanes
+
+Development of chiral high-valent iodine reagents
+for asymmetric oxidative transformation of phenolic substrates.
+
 
 ---
 
-## 教育背景
+## Project 02
 
-### 学位名称
-**学校名称** | [毕业年份]
-- 专业: [专业名称]
-- GPA: [成绩]
-- 主要课程: [相关课程]
+### Ortho-Quinol Chemistry and Natural Product Synthesis
 
----
+Synthetic approaches toward complex natural product frameworks
+using dearomative transformations.
 
-## 技能
-
-### 编程语言
-- Python, JavaScript, Java, C++, SQL
-
-### 框架和工具
-- React, Django, Node.js, Docker, Git, AWS
-
-### 其他技能
-- 项目管理, 团队协作, 技术文档
 
 ---
 
-## 项目经历
+## Project 03
 
-### 项目名称
-**时间**: [开始日期] - [结束日期]
-- **描述**: [项目简要描述]
-- **技术栈**: [使用的技术]
-- **成果**: [项目成果和影响]
-- **链接**: [GitHub仓库或项目链接]
+### Synthetic Methodology Development
 
-### 项目名称
-**时间**: [开始日期] - [结束日期]
-- **描述**: [项目简要描述]
-- **技术栈**: [使用的技术]
-- **成果**: [项目成果和影响]
-
+Exploration of new oxidative transformations
+and their applications in organic synthesis.
+---
+layout: page
+title: CV
 ---
 
-## 证书和奖项
-- [证书/奖项名称] - [颁发机构] ([年份])
-- [证书/奖项名称] - [颁发机构] ([年份])
+# Curriculum Vitae
 
+
+You can download my CV here:
+
+
+[Download PDF](CV.pdf)
+---
+layout: page
+title: Contact
 ---
 
-## 语言能力
-- 中文: 母语
-- 英文: 流利
-- [其他语言]: [水平]
+# Contact
 
----
 
-## 其他信息
-- [任何其他相关信息，如出版物、演讲等]
+Email:
 
----
+your.email@example.com
 
-*最后更新: 2026年7月*
+
+ORCID:
+
+XXXXXXXX
+
+
+Google Scholar:
+
+XXXXXXXX
+
+
+LinkedIn:
+
+XXXXXXXX
